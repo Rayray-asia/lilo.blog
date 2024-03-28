@@ -1,6 +1,6 @@
 +++
 title = "Scuderia Ferrari F1"
-date = "2023-01-01"
+date = "2024-03-28"
 draft = true
 pinned = false
 tags = ["Lilo", "Example"]
