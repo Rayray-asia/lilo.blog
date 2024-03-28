@@ -1,95 +1,38 @@
 +++
-title = "Example Post"
+title = "Scuderia Ferrari F1"
 date = "2023-01-01"
-draft = false
+draft = true
 pinned = false
-tags = [ "Lilo", "Example" ]
+tags = ["Lilo", "Example"]
 image = "/img/default-image.jpg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-
 {{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
+SCUDERIA Ferrari F1
 {{</lead>}}
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
+#### Die Geschichte des Ferrari F1 Teams
 
-# Überschrift 1
+Das Ferrari Formel-1-Team ist eine Institution im Motorsport, dessen Geschichte mit der Gründung der Formel-1-Weltmeisterschaft im Jahr 1950 begann. Seitdem hat Ferrari an jeder Saison teilgenommen und ist zu einem Symbol für Leidenschaft, Prestige und Exzellenz geworden. Mit einem beeindruckenden Erbe von Triumph und Tradition ist Ferrari nicht nur ein Team, sondern eine Legende auf den Rennstrecken weltweit.
 
-So sieht die grösste Überschrift aus (H1).
+#### Triumphe und Herausforderungen
 
-## Überschrift 2
+Ferrari hat im Laufe der Jahre zahlreiche Siege gefeiert und viele unvergessliche Momente auf der Rennstrecke erlebt. Die Ära von Juan Manuel Fangio in den 1950er Jahren, die Dominanz von Niki Lauda und ​​Michael Schumacher in den 1970er und 2000er Jahren sowie die jüngsten Erfolge mit Fahrern wie Sebastian Vettel und Charles Leclerc sind nur einige Beispiele für die glorreiche Geschichte des Teams. Doch neben den Triumphen hat Ferrari auch Herausforderungen gemeistert und aus Niederlagen gelernt, was seine Entschlossenheit und Ausdauer unterstreicht.
 
-Dies ist die Überschrift 2 (H2).
+#### **Die Leidenschaft der Tifosi**
 
-### Überschrift 3
-
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
-
-#### Überschrift 4
-
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
-
-## Weitere Textformatierungen
-
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
-
-### Fett und Kursiv
-
-Natürlich gibt es auch **fett** und _kursiv_.
-
-### Links
-
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
-
-### Zitate
-
-> «Zitate können hervorgehoben werden.»
->
-> _Autor mit [Link zur Quelle](https://www.lilo.blog)_
-
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
-
-### Liste
-
-So sieht eine Liste aus:
-
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-### Nummerierte Liste
-
-Und so eine nummerierte Liste:
-
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
+Die Fans von Ferrari, liebevoll als die "Tifosi" bekannt, sind eine leidenschaftliche und treue Gemeinschaft, die das Team in guten wie in schlechten Zeiten bedingungslos unterstützt. Ihre Hingabe und Loyalität sind weltweit bekannt und tragen dazu bei, Ferrari zu einem der am meisten geliebten und gefeierten Teams im Motorsport zu machen. Die rote Flut der Tifosi, die bei jedem Rennen die Tribünen überflutet, ist ein beeindruckendes Zeugnis für die Leidenschaft, die Ferrari inspiriert.
 
 ## Bilder
 
 Bilder werden mit dem `+`-Symbol eingefügt.
 
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
+![Smooth Operator ](oip-1-.jpeg "Pancake Master Sainz Jr.")
 
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
+Die Zukunft von Ferrari in der Formel 1 bleibt faszinierend und voller Möglichkeiten. Mit neuen Fahrern, darunter aufstrebende Talente wie Charles Leclerc, sowie kontinuierlichen Investitionen in Forschung und Entwicklung strebt das Team danach, wieder an die Spitze des Rennsports zu gelangen. Während die Konkurrenz intensiver denn je ist, bleibt die Entschlossenheit von Ferrari, Siege zu erringen und die Tradition des Erfolgs fortzusetzen, unerschütterlich. Die Tifosi werden weiterhin jeden Schritt des Weges unterstützen, während Ferrari weiterhin seine Legende auf den Rennstrecken der Welt schreibt.
 
-### Tipps zu Bildgrössen
-
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
-
-### Bildunterschrift
-
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
-
-## Horizontale Linie
-
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
-
----
+- - -
 
 ## Lead
 
@@ -97,8 +40,8 @@ Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem m
 Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
 {{</lead>}}
 
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
+`{{</*lead*/>}}`\
+Ein Lead steht zwischen zwei solchen Blöcken.\
 `{{</*/lead*/>}}`
 
 ## Kasten
@@ -107,8 +50,8 @@ Ein Lead steht zwischen zwei solchen Blöcken.
 In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
 {{</box>}}
 
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.  
+`{{</*box*/>}}`\
+Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.\
 `{{</*/box*/>}}`
 
 {{<box title="Ausklappbare Box">}}
@@ -121,8 +64,8 @@ Dies eignet sich auch für längere Inhalte.
 Auch Bilder können in eine Box gepackt werden.
 {{</box>}}
 
-`{{</*box title="Ausklappbare Box"*/>}}`  
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.  
+`{{</*box title="Ausklappbare Box"*/>}}`\
+Wird ein Titel angegeben, so kann die Box ausgeklappt werden.\
 `{{</*/box*/>}}`
 
 ## Video, Audio und andere Medien einbetten
