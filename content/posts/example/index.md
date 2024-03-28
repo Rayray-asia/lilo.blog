@@ -8,9 +8,7 @@ image = "/img/default-image.jpg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-{{<lead>}}
-SCUDERIA Ferrari F1
-{{</lead>}}
+# SCUDERIA Ferrari F1
 
 #### Die Geschichte des Ferrari F1 Teams
 
