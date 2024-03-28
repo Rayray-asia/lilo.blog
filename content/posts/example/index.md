@@ -8,9 +8,9 @@ image = "oip-1-.jpeg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-`{{</*lead*/>}}`\
-Das Ferrari Formel-1-Team ist eine Institution im Motorsport, dessen Geschichte mit der Gründung der Formel-1-Weltmeisterschaft im Jahr 1950 begann. Seitdem hat Ferrari an jeder Saison teilgenommen und ist zu einem Symbol für Leidenschaft, Prestige und Exzellenz geworden. Mit einem beeindruckenden Erbe von Triumph und Tradition ist Ferrari nicht nur ein Team, sondern eine Legende auf den Rennstrecken weltweit.\
-`{{</*/lead*/>}}`
+{{<lead>}}
+Das Ferrari Formel-1-Team ist eine Institution im Motorsport, dessen Geschichte mit der Gründung der Formel-1-Weltmeisterschaft im Jahr 1950 begann. Seitdem hat Ferrari an jeder Saison teilgenommen und ist zu einem Symbol für Leidenschaft, Prestige und Exzellenz geworden. Mit einem beeindruckenden Erbe von Triumph und Tradition ist Ferrari nicht nur ein Team, sondern eine Legende auf den Rennstrecken weltweit.
+{{</lead>}}
 
 #### Triumphe und Herausforderungen
 
