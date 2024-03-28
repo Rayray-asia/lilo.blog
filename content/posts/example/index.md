@@ -1,7 +1,7 @@
 +++
 title = "Scuderia Ferrari F1"
 date = "2024-03-28"
-draft = true
+draft = false
 pinned = false
 tags = ["Lilo", "Example"]
 image = "/img/default-image.jpg"
