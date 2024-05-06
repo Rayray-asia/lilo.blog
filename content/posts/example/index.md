@@ -42,6 +42,17 @@ Zu unserer Frage welche Gründe es haben könnte, dass die Risse an Nutztieren z
 
 Der Tierschützer David Gerke sieht das anders. Er ist zwar einverstanden, dass mehrere Faktoren die Zahl der Risse beeinflussen, aber findet es schlicht falsch, den Rissrückgang auf das Wetter rückzuführen. In unserem schriftlichen Interview schreibt er, dass die durchschnittliche Risszahl pro Wolf rückläufig sei und man diesen Effekt insbesondere in denjenigen Gebieten sehen könne, in denen der Herdenschutz gut ausgebaut sei. Deswegen ist für ihn der Herdenschutz ein grosser Grund für die gesunkenen Risszahlen. Dennoch ist er der Meinung, dass die Zeit der wichtigste Bestandteil sei. Im Laufe der Zeit würde die Gesellschaft lernen, wie man mit Raubtieren umgehen könne und entwickle dementsprechend Methoden zur Minimierung von Auseinandersetzungen. Tatsächlich gibt es beispielsweise in Südeuropa viele Gebiete, in denen es sehr viel Schafzucht und zugleich auch viele Wölfe gibt, ohne viele Schäden zu verzeichnen.  
 
+{{<box title="Gruppe Wolf Schweiz(GWS)">}}
+In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
+{{</box>}}
+
+## Neu auch Grossvieh? 
+
+Zwar sind die Zahlen der gerissenen Nutztiere rückläufig, dennoch kommt ein neues beängstigendes Problem hinzu. 2023 wurde erstmals auch Grossvieh gerissen. 
+Im Kanton Glarus wurden im Jahr 2023 nur dreissig Nutztiere gerissen. An und für sich ist dies ein erfreuliche Nachricht, allerdings sind von den 30 Nutztieren fünf Rinder und zehn Alpakas getötet worden. Dies beunruhigt die Bergbevölkerung sehr stark. 
+Erstens sei es fast unmöglich, Grossvieh zu schützen, meint Reto Glarner. Die Qualität der Zäune sollte an jeder Stelle so hoch sein, dass der Wolf sie nicht überwinden könne. Und jedem, der irgendwo mal auf einer Wanderung in den Bergen gewesen sei und die Kilometer an gespannten Zäunen sehe, dem müsse es einleuchten, dass dieser Anspruch völlig absurd sei.   
+Zweitens beunruhigt die Bergbevölkerung die Situation ihrer Kinder. Wenn eine Herde Alpakas direkt vor dem Dorf gerissen werde, sagt Reto Glarner, und man sich vorstelle, dass die eigenen Kinder kleiner seien als Alpakas, dann bekomme man als Eltern zumindest ein ungutes Gefühl. «Da kann jetzt jeder sagen, da passiert nichts, aber das Gefühl bleibt». 
+
 ## Lead
 
 {{<lead>}}
