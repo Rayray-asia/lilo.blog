@@ -1,5 +1,5 @@
 +++
-title = "Scuderia Ferrari F1"
+title = "Das Märchen vom bösen Wolf"
 date = "2024-03-28"
 draft = false
 pinned = false
@@ -8,35 +8,17 @@ image = ""
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
+# Das Märchen vom bösen Wolf
+
 {{<lead>}}
-Das Ferrari Formel-1-Team ist eine Institution im Motorsport, dessen Geschichte mit der Gründung der Formel-1-Weltmeisterschaft im Jahr 1950 begann. Seitdem hat Ferrari an jeder Saison teilgenommen und ist zu einem Symbol für Leidenschaft, Prestige und Exzellenz geworden. Mit einem beeindruckenden Erbe von Triumph und Tradition ist Ferrari nicht nur ein Team, sondern eine Legende auf den Rennstrecken weltweit.
+Mit der Wiederansiedelung des Wolfes in der Schweiz entsteht zugleich ein grosser Konflikt zwischen den Bestrebungen der Tierschützer und der Angst und Verzweiflung der Bergbevölkerung. Die Debatte um den Wolf in der Schweiz spitzt sich immer weiter zu.
 {{</lead>}}
-
-#### Triumphe und Herausforderungen
-
-Ferrari hat im Laufe der Jahre zahlreiche Siege gefeiert und viele unvergessliche Momente auf der Rennstrecke erlebt. Die Ära von Juan Manuel Fangio in den 1950er Jahren, die Dominanz von Niki Lauda und ​​Michael Schumacher in den 1970er und 2000er Jahren sowie die jüngsten Erfolge mit Fahrern wie Sebastian Vettel und Charles Leclerc sind nur einige Beispiele für die glorreiche Geschichte des Teams. Doch neben den Triumphen hat Ferrari auch Herausforderungen gemeistert und aus Niederlagen gelernt, was seine Entschlossenheit und Ausdauer unterstreicht.
-
-#### **Die Leidenschaft der Tifosi**
-
-Die Fans von Ferrari, liebevoll als die "Tifosi" bekannt, sind eine leidenschaftliche und treue Gemeinschaft, die das Team in guten wie in schlechten Zeiten bedingungslos unterstützt. Ihre Hingabe und Loyalität sind weltweit bekannt und tragen dazu bei, Ferrari zu einem der am meisten geliebten und gefeierten Teams im Motorsport zu machen. Die rote Flut der Tifosi, die bei jedem Rennen die Tribünen überflutet, ist ein beeindruckendes Zeugnis für die Leidenschaft, die Ferrari inspiriert.
-
-{{<box>}}
-Finn ist der goat
-{{</box>}}
-
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-
 
 ## Bilder
 
 Bilder werden mit dem `+`-Symbol eingefügt.
 
 ![]()
-
-Die Zukunft von Ferrari in der Formel 1 bleibt faszinierend und voller Möglichkeiten. Mit neuen Fahrern, darunter aufstrebende Talente wie Charles Leclerc, sowie kontinuierlichen Investitionen in Forschung und Entwicklung strebt das Team danach, wieder an die Spitze des Rennsports zu gelangen. Während die Konkurrenz intensiver denn je ist, bleibt die Entschlossenheit von Ferrari, Siege zu erringen und die Tradition des Erfolgs fortzusetzen, unerschütterlich. Die Tifosi werden weiterhin jeden Schritt des Weges unterstützen, während Ferrari weiterhin seine Legende auf den Rennstrecken der Welt schreibt.
 
 - - -
 
