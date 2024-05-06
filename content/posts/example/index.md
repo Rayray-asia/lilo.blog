@@ -13,14 +13,19 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 {{<lead>}}
 Mit der Wiederansiedelung des Wolfes in der Schweiz entsteht zugleich ein grosser Konflikt zwischen den Bestrebungen der Tierschützer und der Angst und Verzweiflung der Bergbevölkerung. Die Debatte um den Wolf in der Schweiz spitzt sich immer weiter zu.
 {{</lead>}}
+Eine Reportage von Raiarii Waber und Finn Stäuble
 
 Nach vier Stunden Zugfahrt kommen wir in Luchsingen im Kanton Glarus an. Die frische Bergluft strömt uns in die Nase. Vor uns bäumen sich die hohen, mächtigen Berge auf, während die Sonne nur vereinzelt durch die Wolken dringt. Das beruhigende Geräusch eines Rassenmähers im Hintergrund begleitet uns auf dem Weg zu unserem heutigen Gesprächspartner. Als wir die gemütliche Wohnung von Reto Glarner betreten, kommt uns der Geruch von frischem Kaffee entgegen. Er ist Herdenschutzbeauftragter im Kanton Glarus und ist in der Bauerngruppe Glarus Süd tätig. Er betreibt einen landwirtschaftlichen Betrieb mit eigenen Tieren. Der Wolf ist auf Gemeindegebiet sehr präsent und hat grossen Einfluss auf den landwirtschaftlichen Betrieb. Wie Reto Glarner sagt: «Es ist einfach eine enorme zusätzliche Arbeit, die man da macht». 
 
-## Bilder
+## Der Wolf in der Schweiz
+
+Im 19. Jahrhundert wurde der Wolf in der Schweiz vollends ausgerottet. Seit 1995 wandern wieder Wölfe in die Schweiz ein. Heute sind es schon über 30 Rudel. Dies zur Freude von Umwelt- und Tierschützern, denn der Wolf sei, wie auch der Tierschützer und Leiter der Gruppe Wolf Herr Gerke meint, sehr wichtig. Er sei ein integraler Bestandteil des Ökosystems und insbesondere für die natürliche Regulierung der Pflanzenfresser relevant – und damit für einen gesunden Wald. 
+Seit der Einwanderung der Wölfe sind allerdings immer mehr Risse an Nutztieren zu verzeichnen. Dies löst Wut und Angst bei den Leuten in den betroffenen Gebieten aus. 
+Während die Tierschützer eher auf Herdenschutzmassnahmen setzen, fordert die vom Wolf betroffene Bevölkerung vermehrte Abschüsse von Wölfen. 
 
 Bilder werden mit dem `+`-Symbol eingefügt.
 
-![]()
+![](microsoftteams-image-35-2-1-.png "Ein Bild von Reto Glarners Haus ©Raiarii Waber")
 
 - - -
 
