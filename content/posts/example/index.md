@@ -14,6 +14,8 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 Mit der Wiederansiedelung des Wolfes in der Schweiz entsteht zugleich ein grosser Konflikt zwischen den Bestrebungen der Tierschützer und der Angst und Verzweiflung der Bergbevölkerung. Die Debatte um den Wolf in der Schweiz spitzt sich immer weiter zu.
 {{</lead>}}
 
+Nach vier Stunden Zugfahrt kommen wir in Luchsingen im Kanton Glarus an. Die frische Bergluft strömt uns in die Nase. Vor uns bäumen sich die hohen, mächtigen Berge auf, während die Sonne nur vereinzelt durch die Wolken dringt. Das beruhigende Geräusch eines Rassenmähers im Hintergrund begleitet uns auf dem Weg zu unserem heutigen Gesprächspartner. Als wir die gemütliche Wohnung von Reto Glarner betreten, kommt uns der Geruch von frischem Kaffee entgegen. Er ist Herdenschutzbeauftragter im Kanton Glarus und ist in der Bauerngruppe Glarus Süd tätig. Er betreibt einen landwirtschaftlichen Betrieb mit eigenen Tieren. Der Wolf ist auf Gemeindegebiet sehr präsent und hat grossen Einfluss auf den landwirtschaftlichen Betrieb. Wie Reto Glarner sagt: «Es ist einfach eine enorme zusätzliche Arbeit, die man da macht». 
+
 ## Bilder
 
 Bilder werden mit dem `+`-Symbol eingefügt.
