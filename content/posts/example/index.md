@@ -6,7 +6,7 @@ pinned = false
 tags = ["Lilo", "Example"]
 image = ""
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+footnotes = ""
 +++
 # Das Märchen vom bösen Wolf
 
@@ -23,7 +23,7 @@ Im 19. Jahrhundert wurde der Wolf in der Schweiz vollends ausgerottet. Seit 1995
 Seit der Einwanderung der Wölfe sind allerdings immer mehr Risse an Nutztieren zu verzeichnen. Dies löst Wut und Angst bei den Leuten in den betroffenen Gebieten aus. 
 Während die Tierschützer eher auf Herdenschutzmassnahmen setzen, fordert die vom Wolf betroffene Bevölkerung vermehrte Abschüsse von Wölfen. 
 
-![Ein Bild von Reto Glarners Haus ©Raiarii Waber](microsoftteams-image-35-2-1-.png "Ein Bild von Reto Glarners Haus ©Raiarii Waber")
+![Abbildung 1:Ein Bild von Reto Glarners Haus ©Raiarii Waber](microsoftteams-image-35-2-1-.png)
 
 - - -
 
@@ -37,90 +37,33 @@ Für den Tierschützer David Gerke ist die neue Regelung jedoch willkürlich und
 Zu unserer Frage welche Gründe es haben könnte, dass die Risse an Nutztieren zum Vorjahr gesunken sind, meint der Landwirtschaftskommissar Reto Glarner, dass es sehr schwierig sei, wenn man jährlichen Vergleiche anstelle. "Zu sagen, dass das Konzept 2023 das richtige war, weil wir weniger Schäden haben, ist einfach zu kurz gegriffen", betont er. Als man noch im Vorjahr den ganzen Sommer lang geglaubt habe, einen Weg gefunden zu haben, habe es ein Jahr später nicht mehr funktioniert, fügt er an. Trotzdem meint Reto Glarner, dass der Herdeschutz gewiss ein Faktor für die gesunkenen Risse sei, aber man ihn nicht überbewerten dürfe. Dann fügt er hinzu: «Ich glaube auch, dass es sehr viel mit Zufall zu tun hat, ob ein Ereignis stattfindet oder ob es nicht stattfindet». Dabei spiele das Wetter und die Umgebung eine grosse Rolle. 
 
 {{<box>}}
-*«Ich glaube auch, dass es sehr viel mit Zufall zu tun hat, ob ein Ereignis stattfindet oder ob es nicht stattfindet.»*
+***«Ich glaube auch, dass es sehr viel mit Zufall zu tun hat, ob ein Ereignis stattfindet oder ob es nicht stattfindet.»***
 {{</box>}}
 
 Der Tierschützer David Gerke sieht das anders. Er ist zwar einverstanden, dass mehrere Faktoren die Zahl der Risse beeinflussen, aber findet es schlicht falsch, den Rissrückgang auf das Wetter rückzuführen. In unserem schriftlichen Interview schreibt er, dass die durchschnittliche Risszahl pro Wolf rückläufig sei und man diesen Effekt insbesondere in denjenigen Gebieten sehen könne, in denen der Herdenschutz gut ausgebaut sei. Deswegen ist für ihn der Herdenschutz ein grosser Grund für die gesunkenen Risszahlen. Dennoch ist er der Meinung, dass die Zeit der wichtigste Bestandteil sei. Im Laufe der Zeit würde die Gesellschaft lernen, wie man mit Raubtieren umgehen könne und entwickle dementsprechend Methoden zur Minimierung von Auseinandersetzungen. Tatsächlich gibt es beispielsweise in Südeuropa viele Gebiete, in denen es sehr viel Schafzucht und zugleich auch viele Wölfe gibt, ohne viele Schäden zu verzeichnen.  
 
 {{<box title="Gruppe Wolf Schweiz(GWS)">}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
+Die Gruppe Wolf Schweiz (GWS) wurde am 6. April 1997 in Bern gegründet. Die Tätigkeiten der GWS haben sich im Laufe der mehr als 20 Jahre ihrer Existenz kontinuierlich verändert und sich im Laufe der Zeit angepasst. Standen anfangs nur Informationen über den Wolf und seinem Verhalten im Mittelpunkt, wurden die Aktivitäten nach und nach auf weitere Themenfelder ausgedehnt, etwa auf Herdenschutzförderung, Überwachung und Sensibilisierung der Politik. Heute setzt sich die GWS dafür ein, ein Gleichgewicht zwischen Menschen und heimischen Großraubtieren zu schaffen, sowie diese auch in Kulturlandschaft zu befördern, damit letztere akzeptiert und leben können. 
 {{</box>}}
 
-## Neu auch Grossvieh? 
+## Neu auch Grossvieh?
 
 Zwar sind die Zahlen der gerissenen Nutztiere rückläufig, dennoch kommt ein neues beängstigendes Problem hinzu. 2023 wurde erstmals auch Grossvieh gerissen. 
 Im Kanton Glarus wurden im Jahr 2023 nur dreissig Nutztiere gerissen. An und für sich ist dies ein erfreuliche Nachricht, allerdings sind von den 30 Nutztieren fünf Rinder und zehn Alpakas getötet worden. Dies beunruhigt die Bergbevölkerung sehr stark. 
-Erstens sei es fast unmöglich, Grossvieh zu schützen, meint Reto Glarner. Die Qualität der Zäune sollte an jeder Stelle so hoch sein, dass der Wolf sie nicht überwinden könne. Und jedem, der irgendwo mal auf einer Wanderung in den Bergen gewesen sei und die Kilometer an gespannten Zäunen sehe, dem müsse es einleuchten, dass dieser Anspruch völlig absurd sei.   
+Erstens sei es fast unmöglich, Grossvieh zu schützen, meint Reto Glarner. Die Qualität der Zäune sollte an jeder Stelle so hoch sein, dass der Wolf sie nicht überwinden könne. Und jedem, der irgendwo mal auf einer Wanderung in den Bergen gewesen sei und die Kilometer an gespannten Zäunen sehe, dem müsse es einleuchten, dass dieser Anspruch völlig absurd sei.\
 Zweitens beunruhigt die Bergbevölkerung die Situation ihrer Kinder. Wenn eine Herde Alpakas direkt vor dem Dorf gerissen werde, sagt Reto Glarner, und man sich vorstelle, dass die eigenen Kinder kleiner seien als Alpakas, dann bekomme man als Eltern zumindest ein ungutes Gefühl. «Da kann jetzt jeder sagen, da passiert nichts, aber das Gefühl bleibt». 
 
-## Lead
+![Abbildung 2: Bild von Luchsingen, Glarus ©Raiarii Waber](microsoftteams-image-34-2-.png)
 
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
+## *«Wenn man den Anspruch hat, dass Abschüsse von Wölfen etwas bringen sollen – also weniger Nutztierrisse oder scheuere Wölfe –, dann ist es überaus wichtig, dass man die richtigen Wölfe erwischt und nicht einfach irgendein beliebiges Exemplar».*
 
-`{{</*lead*/>}}`\
-Ein Lead steht zwischen zwei solchen Blöcken.\
-`{{</*/lead*/>}}`
+Aufgrund des überarbeiteten Jagdgesetzes wurden in diesem Winter 50 Wölfe geschossen. Dabei stellte sich heraus, dass sehr viele dieser Wölfe gar keinen Schaden verursacht haben. Die Umweltschutzkreise kritisieren das sehr stark. In unserem schriftlichen Interview schreibt David Gerke auch: «Wenn man den Anspruch hat, dass Abschüsse von Wölfen etwas bringen sollen – also weniger Nutztierrisse oder scheuere Wölfe –, dann ist es überaus wichtig, dass man die richtigen Wölfe erwischt und nicht einfach irgendein beliebiges Exemplar». Schliesslich gäbe es unter den Tieren durchaus Unterschiede in der Jagdstrategie, meint er. «Deshalb reissen nachweislich nicht alle Wölfe gleich viele Nutztiere, und es ist auch nur ein Teil der Wölfe, der lernt, Herdenschutzmassnahmen zu umgehen», fügt er an. Die Tierschützer kritisieren die unkontrollierten Abschüsse von Wölfen auch aus anderen Gründen. So könne es vorkommen, dass die überlebenden Jungtiere das Gebiet schon früh verlassen, aber es ihnen an jeglicher Jagderfahrung fehle. Deshalb würden sie häufiger Nutztiere reissen. 
 
-## Kasten
-
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
+{<box title="Bauerngruppe Glarus Süd">}}
+Bauerngruppe Glarus Süd:
+Der Verein Bauerngruppe Glarus Süd entstand am 4. April 2017. Sieben Mitglieder des Vorstands aus der gesamten Gemeinde repräsentieren den Verein nach aussen. Seit der Gründung des Vereins befassen sie sich mit der Nutzungsplanung in Glarus Süd. 
+Seither veränderte sich die Aktivität des Vereins, beispielsweise mit den Wölfen in ihrem Gebiet. Seit der Wolf zurück ist arbeiten sie sehr stark mit anderen Bauerngruppe zusammen, um die Herausforderung stemmen zu können. 
 {{</box>}}
 
-`{{</*box*/>}}`\
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.\
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-Dies eignet sich auch für längere Inhalte.
-
-![](/img/default-image.jpg)
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`\
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.\
-`{{</*/box*/>}}`
-
-## Video, Audio und andere Medien einbetten
-
-Es kann auch `HTML-Code` eingefügt werden. Manchmal geht dies etwas einfacher, wenn man dazu in den `Markdown`-Modus wechselt.
-
-Damit können zum Beispiel Filme, Audiodateien oder Karten eingebettet werden. Meist sind auf den entsprechenden Plattformen (YouTube, Vimeo, Google Maps, etc.) entsprechende Code-Ausschnitte vorbereitet, die man direkt in den Blog einfügen kann. Am besten auf der jeweiligen Plattform nach einem Knopf für `embed` oder `share` suchen.
-
-Bei Videos ist es ideal, wenn sie sich automatisch **an die Bildschirmgrösse anpassen**. Dies geht am einfachsten mit den hinterlegten YouTube- und Vimeo-Codes:
-
-### YouTube einbetten
-
-Einbetten von YouTube-Videos mit dem Code: `{{</*youtube video_id*/>}}`
-
-(Die `video_id` steht bei jedem YouTube-Video in der Browser-URL.)
-
-{{<youtube kQjtK32mGJQ>}}
-
-### Vimeo einbetten
-
-Einbetten von Vimeo-Videos geht mit dem Code: `{{</*vimeo video_id*/>}}`
-
-{{<vimeo 194276412>}}
-
-### Code und Code-Blöcke
-
-Mit dem Code-Symbol `<>` können Wörter auf `diese Art` hervorgehoben werden. Dies wird zum Beispiel für Tastenkombinationen wie `ctrl+s` oder für `Programmiercode` verwendet. Auch Math-Formeln können so ausgedrückt werden: `y = mx + b`.
-
-Für längere solche Abschnitte verwendet man am besten das Code-Block-Symbol. Damit wird ein solcher Block erstellt:
-
-```
-const sun1 = "sun" + "il";
-const sun2 = "su" + "n" + "il";
-sun1 === sun2;
-```
-
-## Spass haben
-
-😀 Viel Spass mit deinem Blog!
+Wir konnten Einblicke in die komplexen und herausfordernden Facetten des Konflikts zwischen Mensch und Wolf gewinnen. Angesichts der jetzigen Situation ist die Forderung nach einer dauerhaften Lösung für ein Zusammenleben nach wie vor dringlich. Dabei sollte man sich vor Augen halten, dass Wölfe lediglich für 4-7% der Todesfälle von Schafen verantwortlich sind. Die meisten Todesursachen sind Stein- oder Blitzschläge, Abstürze und Krankheiten. Indes bleibt die Angst in den Gemeinden der Bergregionen bestehen.
+Das Thema bleibt äusserst relevant. Unabhängig von den Herausforderungen, denen wir gegenüberstehen, besteht Hoffnung, dass Mensch und Wolf in Einklang leben können. Es liegt an uns Bürgern und Bürgerinnen, gemeinsam nach Lösungen zu suchen, die sowohl den Bedürfnissen der Gemeinden wie auch den Tierschützern entgegenkommen.
