@@ -24,6 +24,10 @@ Die Fans von Ferrari, liebevoll als die "Tifosi" bekannt, sind eine leidenschaft
 Finn ist der goat
 {{</box>}}
 
+{{<box>}}
+In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
+{{</box>}}
+
 
 
 ## Bilder
