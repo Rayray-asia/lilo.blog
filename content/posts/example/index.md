@@ -59,7 +59,7 @@ Zweitens beunruhigt die Bergbevölkerung die Situation ihrer Kinder. Wenn eine H
 
 Aufgrund des überarbeiteten Jagdgesetzes wurden in diesem Winter 50 Wölfe geschossen. Dabei stellte sich heraus, dass sehr viele dieser Wölfe gar keinen Schaden verursacht haben. Die Umweltschutzkreise kritisieren das sehr stark. In unserem schriftlichen Interview schreibt David Gerke auch: «Wenn man den Anspruch hat, dass Abschüsse von Wölfen etwas bringen sollen – also weniger Nutztierrisse oder scheuere Wölfe –, dann ist es überaus wichtig, dass man die richtigen Wölfe erwischt und nicht einfach irgendein beliebiges Exemplar». Schliesslich gäbe es unter den Tieren durchaus Unterschiede in der Jagdstrategie, meint er. «Deshalb reissen nachweislich nicht alle Wölfe gleich viele Nutztiere, und es ist auch nur ein Teil der Wölfe, der lernt, Herdenschutzmassnahmen zu umgehen», fügt er an. Die Tierschützer kritisieren die unkontrollierten Abschüsse von Wölfen auch aus anderen Gründen. So könne es vorkommen, dass die überlebenden Jungtiere das Gebiet schon früh verlassen, aber es ihnen an jeglicher Jagderfahrung fehle. Deshalb würden sie häufiger Nutztiere reissen. 
 
-{<box title="Bauerngruppe Glarus Süd">}}
+{{<box title="Bauerngruppe Glarus Süd">}}
 Bauerngruppe Glarus Süd:
 Der Verein Bauerngruppe Glarus Süd entstand am 4. April 2017. Sieben Mitglieder des Vorstands aus der gesamten Gemeinde repräsentieren den Verein nach aussen. Seit der Gründung des Vereins befassen sie sich mit der Nutzungsplanung in Glarus Süd. 
 Seither veränderte sich die Aktivität des Vereins, beispielsweise mit den Wölfen in ihrem Gebiet. Seit der Wolf zurück ist arbeiten sie sehr stark mit anderen Bauerngruppe zusammen, um die Herausforderung stemmen zu können. 
