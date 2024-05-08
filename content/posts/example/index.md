@@ -42,7 +42,6 @@ Der Tierschützer David Gerke sieht das anders. Er ist zwar einverstanden, dass 
 {{<box title="Gruppe Wolf Schweiz(GWS)">}}
 Die Gruppe Wolf Schweiz (GWS) wurde am 6. April 1997 in Bern gegründet. Die Tätigkeiten der GWS haben sich im Laufe der mehr als 20 Jahre ihrer Existenz kontinuierlich verändert und sich im Laufe der Zeit angepasst. Standen anfangs nur Informationen über den Wolf und seinem Verhalten im Mittelpunkt, wurden die Aktivitäten nach und nach auf weitere Themenfelder ausgedehnt, etwa auf Herdenschutzförderung, Überwachung und Sensibilisierung der Politik. Heute setzt sich die GWS dafür ein, ein Gleichgewicht zwischen Menschen und heimischen Großraubtieren zu schaffen, sowie diese auch in Kulturlandschaft zu befördern, damit letztere akzeptiert und leben können. 
 {{</box>}}
-
 ## Neu auch Grossvieh?
 
 Zwar sind die Zahlen der gerissenen Nutztiere rückläufig, dennoch kommt ein neues beängstigendes Problem hinzu. 2023 wurde erstmals auch Grossvieh gerissen. 
