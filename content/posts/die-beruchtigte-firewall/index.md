@@ -6,7 +6,7 @@ pinned = false
 image = "https://www.itomic.com.au/wp-content/uploads/2016/05/firewall.jpg"
 footnotes = "Quellen:\nhttps://www.cisco.com/c/de_de/products/security/firewalls/what-is-a-firewall.html\nhttps://geekflare.com/de/types-of-firewalls/\nhttps://de.wikipedia.org/wiki/Firewall\n"
 +++
-# Die bekannte Firewall
+# Die Bekannte Firewall
 
 {{<lead>}}
 Ich habe mich bei diesem Projekt mit der sogenannten Firewall befasst. Das Projekt hatte zum Ziel, mir ein höheres Maß an Grundwissen und Allgemeinwissen darüber zu vermitteln. Ich werde euch zu einem späteren Zeitpunkt im Blog erklären, warum ich mich genau auf dieses Thema gewandt habe.
@@ -38,4 +38,5 @@ Gleichgültig, für welche Art von Firewall sich Unternehmen entscheiden: Eine f
 {{</box>}}
 
 #### Hier geht es zur vollständigen Erklärung über die Firewall:
+
 [copy_86AF4D59-F273-48A2-8761-8CE8B6C309AB.mov](https://muristalden-my.sharepoint.com/:v:/g/personal/raiarii_waber_stud_muristalden_ch/ERWYTZnRtoFGmYe3yo0AGvsBsEELOtDAk4NzmAwQnwsYCA)
